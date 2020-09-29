@@ -1,0 +1,43 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  background-color: #BF4080;
+  color: #fff;
+  padding: 10px 15px;
+}
+
+h2 {
+  background-color: #80b5ff;
+  color: #fff;
+  padding: 5px 10px;
+}
+
+h2 + p {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+h3 {
+  background-color: #333;
+  color: #fff;
+  padding: 4px 10px;
+}
+
+p {
+  font-weight: 400;
+}
+
+footer {
+  height: 60px;
+  margin-top: 40px;
+  background-color: #BF4080;
+}
+
